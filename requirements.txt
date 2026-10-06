@@ -1,0 +1,6 @@
+streamlit>=1.50
+openai-whisper
+torch
+yt-dlp
+pandas
+requests
