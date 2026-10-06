@@ -1,1 +1,1 @@
-"""MeetMind processing modules (media, speech-to-text, AI, questions, chatbot)."""
+"""MeetMind helper utilities (prompts and small helper functions)."""
